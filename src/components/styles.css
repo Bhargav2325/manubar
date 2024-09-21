@@ -1,0 +1,12 @@
+.image-results {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.image-results img {
+	max-width: 100px;
+	height: auto;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
